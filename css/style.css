@@ -1,0 +1,57 @@
+.card {
+    transition: transform 0.5s;
+}
+
+.card:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.div1 {
+    text-align: center;
+    height: 400px;
+    /*border: 1px solid blue;
+    box-shadow: .1px .1px 20px 5px red inset;
+        background-color: blue;
+    */
+}
+
+h4{
+    padding-top: 20px;
+}
+
+#content{
+    margin-top: 20px;
+}
+
+#btn1{
+    margin-top: 10px;
+}
+
+#btn2 {
+    margin-top: 10px;
+}
+
+#show{
+    margin-top: 5px;
+}
+
+img{
+    height:220px;
+}
+
+h2{
+    text-align:center;
+    padding-top: 50px;
+}
+
+.line {
+    width: 120px;
+    height: 3px;
+    background-color: rgb(0 27 178);
+    margin: auto;
+}
+
+p{
+    color: rgb(0 23 152);
+}
